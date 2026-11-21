@@ -23,7 +23,7 @@
   const localeStorageKey = "mainland-standard-traditional-converter-locale";
   const messages = {
     "zh-CN": {
-      title: "Chinese Converter",
+      title: "中国内地标准繁体转换器",
       subtitle: "将混杂不同标准的简体/繁体/异体字形转换为符合中国内地《通用规范汉字表》（2013）规范的繁体字形。",
       languageLabel: "语言",
       autoLanguage: "自动",
@@ -55,7 +55,7 @@
       clipboardUnavailableToast: "⚠️ 剪贴板权限不可用",
     },
     "zh-TW": {
-      title: "Chinese Converter",
+      title: "中國內地標準繁體轉換器",
       subtitle: "將混雜不同標準的簡體/繁體/異體字形轉換為符合中國內地《通用規範漢字表》（2013）規範的繁體字形。",
       languageLabel: "語言",
       autoLanguage: "自動",
