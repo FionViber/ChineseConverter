@@ -8,7 +8,7 @@ A fully offline browser-based converter for Chinese Mainland standard Traditiona
 
 GitHub Pages:
 
-https://fionviber.github.io/XiaoHammerChineseConverter/
+https://fionviber.github.io/ChineseConverter/
 
 ## Screenshot
 

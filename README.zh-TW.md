@@ -8,7 +8,7 @@
 
 GitHub Pages:
 
-https://fionviber.github.io/XiaoHammerChineseConverter/
+https://fionviber.github.io/ChineseConverter/
 
 ## 截圖
 
