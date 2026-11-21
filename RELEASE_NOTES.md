@@ -1,6 +1,6 @@
 # v1.1.1
 
-Footer credit update for XiaoHammer Chinese Converter.
+Footer credit update for Chinese Converter.
 
 - Added a GitHub project link to the app footer.
 - Added author credit linking to the FionViber GitHub profile.
