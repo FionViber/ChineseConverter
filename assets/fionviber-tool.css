@@ -301,7 +301,7 @@ input[type="file"] {
   }
 
   .pane {
-    min-height: 420px;
+    min-height: 0;
   }
 
   .pane + .pane {
@@ -310,7 +310,7 @@ input[type="file"] {
 
   textarea,
   .output {
-    min-height: 320px;
+    min-height: clamp(9rem, 25svh, 14rem);
   }
 
   .site-footer {
